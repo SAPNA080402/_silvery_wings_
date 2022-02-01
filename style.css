@@ -105,7 +105,7 @@ body#home a.home ,body#table  a.table ,body#list a.list,body#login a.login{
 	overflow: hidden;
   }
   .dropbtn{
-	  width: 110px;
+	  width: 100%;
   }
   .dropdown .dropbtn { 
 	  border: none;
