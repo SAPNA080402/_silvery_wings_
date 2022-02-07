@@ -69,6 +69,7 @@ button{
 }
 iframe{
 	border: rgb(42,47,50);
+	width: 100%;
 }
 img{
 	width: 100%;
