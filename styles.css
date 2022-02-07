@@ -154,11 +154,11 @@ u{
 .eq th{
 	background-color: black;
 	color: rgb(255,201,21);
+	height: 40px;
 }
 .eq td{
 	background-color: rgb(255,201,21);
 	color: black;
-	font-size: 13px;
 	text-align: center;
 }
 .wa{
